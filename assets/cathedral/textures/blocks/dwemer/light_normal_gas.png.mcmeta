@@ -1,0 +1,9 @@
+{
+	"ctm": {
+		"ctm_version": 1,
+		"type": "CTM",
+		"textures": [
+			"cathedral:blocks/dwemer/light_normal_gas-ctm"
+		]
+	}
+}
