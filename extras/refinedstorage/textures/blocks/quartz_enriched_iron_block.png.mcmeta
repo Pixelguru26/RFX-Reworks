@@ -1,0 +1,9 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "textures":[
+            "refinedstorage:blocks/quartz_enriched_iron_block-ctm"
+        ]
+    }
+}
